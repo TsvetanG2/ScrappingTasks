@@ -11,7 +11,8 @@ Create a search with the following parameters:
 - Keywords: financial or database or data
 - Procurement Stage: Awarded contract
 - Date range: 31/10/2022 – 04/11/2022
-- Download the data as .xml file
+  
+Download the data as .xml file
   
 Read the .xml file and extract the following data from the notices:
 - Publish date
@@ -22,7 +23,9 @@ Read the .xml file and extract the following data from the notices:
 - Awarded company address
 - Awarded value 
 - url
-- Save the output in .excel file
+  
+Save the output in .excel file
+
 ---
 ### Task 3) Scrape the quotes from http://quotes.toscrape.com/ (all pages) and save the output in csv, json or whatever format you prefer. Each entity should have:
 -	 text - quote text (required)
